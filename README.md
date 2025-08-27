@@ -1,6 +1,6 @@
-# 🔍 LostFound
+# 🔍 Lost & Found Hub
 
-**LostFound** is a Flutter app that helps users report and find lost items.  
+**Lost & Found Hub** is a Flutter app that helps users report and find lost items.  
 It uses **Supabase** as the backend for authentication, real-time data storage,  
 and profile management.  
 
