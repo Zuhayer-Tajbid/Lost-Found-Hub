@@ -142,7 +142,7 @@ lost/found items, browse existing reports, and comment on posts.
 
 ## 📱 Download APK
 
-👉 [Download the latest APK]()
+👉 [Download the latest APK](https://github.com/Zuhayer-Tajbid/Lost-Found-Hub/releases/tag/v1.0.0)
 
 ---
 
